@@ -1,0 +1,1534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"Route"
+			],
+			[
+				"Boo",
+				"BootstrapTable〔variable〕"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"re",
+				"react-bootstrap-table"
+			],
+			[
+				"get",
+				"getInputState"
+			],
+			[
+				"topicU",
+				"topicUrls"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"sup",
+				"superagent〔variable〕"
+			],
+			[
+				"exp",
+				"express〔variable〕"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"req",
+				"req〔argument〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"ini",
+				"initJson〔function〕"
+			],
+			[
+				"init",
+				"initJson"
+			],
+			[
+				"ge",
+				"getChild"
+			],
+			[
+				"resu",
+				"results〔variable〕"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"rs",
+				"results"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"c",
+				"children"
+			],
+			[
+				"roo",
+				"rootName〔argument〕"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"te",
+				"text-align: 〔property〕"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"baco",
+				"background-color"
+			],
+			[
+				"bgco",
+				"background-color"
+			],
+			[
+				"td",
+				"td*4"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"for",
+				"form〔variable〕"
+			],
+			[
+				"txt",
+				"txtName〔variable〕"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"formenctype\tAttr"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"2015-10-10T",
+				"2015-10-10T20:00Z"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"align",
+				"text-align: 〔property〕"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"cre",
+				"createElement〔function〕"
+			],
+			[
+				"is",
+				"isLoc"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"uiac",
+				"uiactionselector-open\t打开选择器"
+			],
+			[
+				"UIACTION",
+				"uiactionselector"
+			],
+			[
+				"UIA",
+				"UIActionSelector-open\t打开选择器"
+			],
+			[
+				"uii",
+				"uiinput-open\t打开输入框，可注意：调用 open 接口的元素，不能加 tapmode 属性"
+			],
+			[
+				"uiiputopen",
+				"uiinput-open\t打开输入框，注意：调用 open 接口的元素，不能加 tapmode 属性"
+			],
+			[
+				"uiinput-open",
+				"uiinput-open\t打开输入框，注意：调用 open 接口的元素，不能加 tapmode 属性"
+			],
+			[
+				"uiip",
+				"uiinput-open\t打开输入框，注意：调用 open 接口的元素，不能加 tapmode 属性"
+			],
+			[
+				"ui",
+				"uiinput-open\t打开输入框，注意：调用 open 接口的元素，不能加 tapmode 属性"
+			],
+			[
+				"apiopen",
+				"api-openFrame\t打开 frame"
+			],
+			[
+				"da",
+				"data_"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"succes",
+				"successCode"
+			],
+			[
+				"data",
+				"dataprocess"
+			],
+			[
+				"tree",
+				"treeDataHash"
+			],
+			[
+				"bb",
+				"bMap-drawBusRoute\t根据 searchBusRoute 搜索返回的 uid 查询线路详情并绘制在地图上"
+			],
+			[
+				"au",
+				"author1href"
+			],
+			[
+				"sco",
+				"score"
+			],
+			[
+				"cno",
+				"cnodeUrl"
+			],
+			[
+				"ele",
+				"element2"
+			],
+			[
+				"el",
+				"element2"
+			],
+			[
+				"elem",
+				"element2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Home.js",
+			"settings":
+			{
+				"buffer_size": 9119,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/containers/FixedTable/BasicTable.js",
+			"settings":
+			{
+				"buffer_size": 367,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/containers/index.js",
+			"settings":
+			{
+				"buffer_size": 404,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/routes.js",
+			"settings":
+			{
+				"buffer_size": 1553,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/containers/BootstrapTable/BootstrapTable.js",
+			"settings":
+			{
+				"buffer_size": 1036,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/components/CounterButton/CounterButton.js",
+			"settings":
+			{
+				"buffer_size": 796,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/client.js",
+			"settings":
+			{
+				"buffer_size": 2125,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"REMOve",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"packagecon",
+				"Package Control: Install Package"
+			],
+			[
+				"packagecontrol",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"as",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/components",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/components/CounterButton",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/containers/About",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/containers/BootstrapTable"
+	],
+	"file_history":
+	[
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/components/CounterButton/CounterButton.js",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/containers/App/App.js",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/webpack/dev.config.js",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/config.js",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/components/GithubButton/GithubButton.js",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/containers/Home/Home.scss",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/redux/modules/counter.js",
+		"/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/containers/Home/Home.js",
+		"/Users/uncle_ye/Desktop/JS/React/redux-tutorial-cn/04_get-state.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/components/Todo.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/reducers/index.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/components/TodoList.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/components/Link.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/components/Footer.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/components/App.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/containers/VisibleTodoList.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/containers/FilterLink.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/reducers/visibilityFilter.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/reducers/todos.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/actions/index.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/reducer.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/container/App.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/index.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/index.html",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/components/AddTodo.js",
+		"/Users/uncle_ye/Desktop/JS/React/React-Redux/action.js",
+		"/Users/uncle_ye/Desktop/JS/React/reactLearn/test.html",
+		"/Users/uncle_ye/Desktop/JS/React/课件/JSX-syntax-and-characteristics-introduced/JSX语法及特点介绍－上线资源包/源码/2.CSS样式.html",
+		"/Users/uncle_ye/Desktop/JS/React/课件/JSX-syntax-and-characteristics-introduced/JSX语法及特点介绍－上线资源包/源码/9.key属性.html",
+		"/Users/uncle_ye/Desktop/JS/React/课件/JSX-syntax-and-characteristics-introduced/JSX语法及特点介绍－上线资源包/源码/3.条件语句1.html",
+		"/Users/uncle_ye/Desktop/JS/clone/js/jquery.js",
+		"/Users/uncle_ye/Desktop/JS/React/课件/JSX-syntax-and-characteristics-introduced/JSX语法及特点介绍－上线资源包/源码/4.条件语句2.html",
+		"/Users/uncle_ye/Desktop/JS/simplest-redux-example/index.html",
+		"/Users/uncle_ye/Desktop/JS/simplest-redux-example/index.js",
+		"/Users/uncle_ye/Desktop/JS/reactLearn/test.html",
+		"/Users/uncle_ye/Desktop/JS/simplest-redux-example/bundle.js",
+		"/Users/uncle_ye/Desktop/JS/react-15.3.2/examples/basic/index.html",
+		"/Users/uncle_ye/Desktop/JS/NodePractice/practice3/app.js",
+		"/Users/uncle_ye/Desktop/JS/NodePractice/practice2/app.js",
+		"/Users/uncle_ye/Desktop/JS/NodePractice/practice1/app.js",
+		"/Users/uncle_ye/Desktop/JS/html5_css3/test.html",
+		"/Users/uncle_ye/Desktop/JS/NodePractice/practice1/package.json",
+		"/Users/uncle_ye/Desktop/JS/reactjs_koans/test/01-HelloWorld.js",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/uncle_ye/Desktop/JS/html5_css3/h5.html",
+		"/Users/uncle_ye/Desktop/JS/react-demos-master/1.jsx",
+		"/Users/uncle_ye/Desktop/JS/react-demos-master/demo11/index.html",
+		"/Users/uncle_ye/Desktop/JS/react-demos-master/demo08/index.html",
+		"/Users/uncle_ye/Desktop/JS/react-demos-master/demo07/index.html",
+		"/Users/uncle_ye/Desktop/JS/react-demos-master/demo05/index.html",
+		"/Users/uncle_ye/Desktop/JS/react-demos-master/demo06/index.html",
+		"/Users/uncle_ye/Desktop/JS/react-demos-master/demo06/index01.html",
+		"/Users/uncle_ye/Desktop/JS/前端学习",
+		"/Users/uncle_ye/Desktop/html5_css3/mycss.css",
+		"/Users/uncle_ye/Desktop/weixin/routes/index.js",
+		"/Users/uncle_ye/Desktop/总结辅助类相关文稿/scp",
+		"/Users/uncle_ye/Desktop/weixin/views/error.html",
+		"/Users/uncle_ye/Desktop/Express_ajax/views/login.html",
+		"/Users/uncle_ye/Desktop/Express_ajax/routes/index.js",
+		"/Users/uncle_ye/Desktop/Express_ajax/views/index.html",
+		"/Users/uncle_ye/Desktop/aaa.csv",
+		"/Users/uncle_ye/WebstormProjects/neo4j_d3js/app.js",
+		"/Users/uncle_ye/WebstormProjects/neo4j_d3js/public/json/city.json",
+		"/Users/uncle_ye/Downloads/d3/API.md",
+		"/Users/uncle_ye/Desktop/html5_css3/h5.html",
+		"/Users/uncle_ye/Downloads/rm94/9.4.cluster.html",
+		"/Users/uncle_ye/Desktop/Pdf/pandoc",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/Users/uncle_ye/Desktop/html5_css3/circle.svg",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/User/colorcoder.sublime-settings",
+		"/Users/uncle_ye/Desktop/123.html",
+		"/Users/uncle_ye/Desktop/js.js",
+		"/Users/uncle_ye/Downloads/vocabuilder_2016-07-26.sql",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/User/Default ().sublime-keymap",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/uncle_ye/Desktop/JS/算法训练/111.html",
+		"/Users/uncle_ye/Downloads/echarts.js",
+		"/Users/uncle_ye/Desktop/JS/面试小题/css/style.css",
+		"/Users/uncle_ye/Desktop/JS/面试小题/default.html",
+		"/Users/uncle_ye/Desktop/JS/算法训练/untitled.js",
+		"/Users/uncle_ye/Desktop/JS/算法训练/鸡兔.js",
+		"/Users/uncle_ye/Desktop/JS/算法训练/数组去重.js",
+		"/Users/uncle_ye/Desktop/数组去重.html",
+		"/Users/uncle_ye/Desktop/web/default.html",
+		"/Users/uncle_ye/Desktop/web/css/style.css",
+		"/Users/uncle_ye/Desktop/untitled2.html",
+		"/Users/uncle_ye/Desktop/default.html",
+		"/Users/uncle_ye/Desktop/untitled.html",
+		"/Users/uncle_ye/Desktop/jstest.js",
+		"/Users/uncle_ye/Desktop/tree.js",
+		"/Users/uncle_ye/Desktop/filter.js",
+		"/Users/uncle_ye/Desktop/filter.ks",
+		"/Users/uncle_ye/Documents/Company/ProtocolAnalysis/test/yangben/传输编码提取失败-空行缺少0D.eml",
+		"/你不知道的JS",
+		"/Users/uncle_ye/Desktop/jqwidgets-ver4.1.2/demos/jqxgrid/sorting.htm",
+		"/Users/uncle_ye/Desktop/fuhuo",
+		"/Applications/Don't starve together.app/Contents/mods/magic_freezer/magicfreezer.tex",
+		"/Users/uncle_ye/Downloads/Sublime-APICloud-Plugins_v1.2.8/Sublime-APICloud-Snippet/module/UIInput/UIInput-open.sublime-snippet",
+		"/Users/uncle_ye/Downloads/Sublime-APICloud-Plugins_v1.2.8/Sublime-APICloud-Snippet/module/UIInput/module-uiinput-open.sublime-snippet",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/Sublime-APICloud-Snippet/module/UIInput/module-uiinput-open.sublime-snippet",
+		"/Users/uncle_ye/Desktop/ApiCloud/my app/config.xml",
+		"/Users/uncle_ye/Desktop/ApiCloud/my app/html/page.html",
+		"/Users/uncle_ye/Desktop/ApiCloud/my app/index.html",
+		"/Users/uncle_ye/Desktop/test.js",
+		"/Users/uncle_ye/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/dontstarve_steam.app/Contents/data/scripts/prefabs/backpack_basic_blue_catcoon.lua",
+		"/Applications/dontstarve_steam.app/Contents/data/scripts/prefabs/backpack_bat.lua",
+		"/Applications/dontstarve_steam.app/Contents/data/scripts/prefabs/backpack_mushy.lua",
+		"/Applications/dontstarve_steam.app/Contents/data/scripts/prefabs/backpack.lua",
+		"/Users/uncle_ye/Desktop/JavaScript中的比较运算符.md",
+		"/Users/uncle_ye/Desktop/weex/hello-world-weex.we",
+		"/Users/uncle_ye/Downloads/html5_user_login/index.html",
+		"/Users/uncle_ye/Desktop/黑市",
+		"/黑市",
+		"/Users/uncle_ye/Downloads/305JSP毕业设计选题管理系统/305JSP毕业设计选题管理系统/jspbylwxtwsjfw/WebRoot/index.jsp",
+		"/Users/uncle_ye/Downloads/305JSP毕业设计选题管理系统/305JSP毕业设计选题管理系统/jspbylwxtwsjfw/WebRoot/jiaoshixinxi_updt_post.jsp",
+		"/Users/uncle_ye/Desktop/login.jsp",
+		"/Users/uncle_ye/Desktop/stuadmin.sql",
+		"/Users/uncle_ye/Desktop/untitled.js",
+		"/Users/uncle_ye/Desktop/var.js",
+		"/Users/uncle_ye/Desktop/Javascript的原型.md",
+		"/Users/uncle_ye/Desktop/js.md",
+		"/Users/uncle_ye/Desktop/大漠邮箱"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"This starter boilerplate app uses the following technologies:\n\n",
+			"counter",
+			"index",
+			"cnodeUrl",
+			"\"},\n",
+			"        <",
+			"id",
+			"img\"",
+			"onfocus=\"show()\"",
+			"re",
+			">\n",
+			"for",
+			"for y = 0",
+			"saving text",
+			"“",
+			"flare.json",
+			"-",
+			"attr",
+			"superagent",
+			"https",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"topicUrl",
+			"\"",
+			"$$"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Home.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1894,
+								1894
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										424,
+										425
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/containers/FixedTable/BasicTable.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/containers/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								363
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1151,
+								1151
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1151,
+										1152
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1141,
+										1142
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 373.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/containers/BootstrapTable/BootstrapTable.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										257,
+										258
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										248,
+										249
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/components/CounterButton/CounterButton.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								765,
+								765
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										786,
+										787
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										641,
+										642
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/uncle_ye/Desktop/JS/React/react-redux-universal-hot-example/src/client.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 571.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "crud.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

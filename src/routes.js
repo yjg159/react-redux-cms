@@ -11,6 +11,7 @@ import {
     LoginSuccess,
     Survey,
     NotFound,
+    BootstrapTable
   } from 'containers';
 
 export default (store) => {
@@ -44,12 +45,16 @@ export default (store) => {
         <Route path="chat" component={Chat}/>
         <Route path="loginSuccess" component={LoginSuccess}/>
       </Route>
-
+      { /*  */ }
+      <Route path="bootstrap">
+        <Route path="table" component={BootstrapTable}/>
+      </Route>
       { /* Routes */ }
       <Route path="about" component={About}/>
       <Route path="login" component={Login}/>
       <Route path="survey" component={Survey}/>
       <Route path="widgets" component={Widgets}/>
+
 
       { /* Catch all route */ }
       <Route path="*" component={NotFound} status={404} />
